@@ -1,13 +1,12 @@
 // print right triangle star pattern
 
-let i,j,k;
 let star = "";
 let n = 5;
-for(i=0;i<n;i++){
-    for(j=0;j<n-i;j++){
+for(let i = 1; i <= n; i++){
+    for(let k = 1; k <= n - i; k++){
         star += "   ";
     }
-    for(k=0;k<i;k++){
+    for(let j = 1; j <= i; j++){
         star += " * ";
     }
     star += "\n";
