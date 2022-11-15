@@ -1,0 +1,28 @@
+Github -> Useful Tools
+-> command use to commit on repository (online)
+git add .
+git commit -m "type message here"
+git push origin master
+
+
+HTML -> Useful Tools
+
+
+
+CSS-> Useful Tools
+
+Links:
+https://colorhunt.co/
+
+Extensions:
+-> Pesticide for Chrome (by londonappbrewery)
+    - helps to see the borders of each element on the page
+    - better visualize and make them correct
+
+JavaScript -> Useful Tools
+
+
+
+
+
+Project Related -> Useful Tools
