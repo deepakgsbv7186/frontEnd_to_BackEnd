@@ -1,8 +1,10 @@
 Github -> Useful Tools
--> command use to commit on repository (online)
+-> command use to commit on repository (remote)
+git status
 git add .
 git commit -m "type message here"
 git push origin master
+git status
 
 
 HTML -> Useful Tools
