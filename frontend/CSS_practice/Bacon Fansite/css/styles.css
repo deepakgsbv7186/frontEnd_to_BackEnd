@@ -1,0 +1,37 @@
+/************* Tag Selector ************/
+
+body{
+    background-color:#FFE15D;
+}
+
+h1{
+    color:#DC3535;
+    font-size:3rem;
+}
+/* img{
+    background-color:#F49D1A;
+    border-radius:10px;
+    box-shadow:10px 5px 5px grey;
+    box-sizing: border-box;
+    margin:1em;
+    padding:2rem;
+} */
+
+/************* Class Selector ************/
+
+.coffee, .cupcake{
+    background-color:#F49D1A;
+    border-radius:10px;
+    box-shadow:10px 5px 5px grey;
+    box-sizing: border-box;
+    margin:1em;
+    padding:2rem;
+}
+.cupcake{
+    box-shadow:10px 5px 5px #B01E68;
+}
+.coffee:hover, .cupcake:hover{
+    background-color:#FF9F9F;
+    transition:ease;
+
+}

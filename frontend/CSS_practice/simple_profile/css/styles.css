@@ -1,0 +1,17 @@
+body{
+    background-color: #CFF5E7;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 10px;
+    width: 5%;
+}
+h1, h2, h3{
+    color: #0D4C92;
+}
+a:link, a:visited{
+    text-decoration:none;
+    cursor:pointer;
+    color:#59C1BD;
+}
