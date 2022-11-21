@@ -1,13 +1,32 @@
 /************** Global Rules **************/
-
-
-
-
-/************** Tag Selector Rules **************/
+*{
+    margin:0;
+    padding:0;
+}
 
 body{
     background-color:#2192FF;
 }
 
 
+/************** Tag Selector Rules **************/
+
+
+
 /************** Class Selector Rules **************/
+
+.top-container{
+    background-color: #FF7D7D;
+    height: 200px;
+    width: 200px;
+}
+.middle-container{
+    background-color: #FCE700;
+    height: 200px;
+    width: 200px;
+}
+.bottom-container{
+    background-color: #EA047E;
+    height: 200px;
+    width: 200px;
+}
