@@ -5,17 +5,49 @@
 }
 
 body{
-    background-color:#2192FF;
+    background-color:#6B728E;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 
 /************** Tag Selector Rules **************/
-
-
-
+h1,h2{
+    width: 20%;
+    margin: 0 auto;
+    padding: 10px;
+    /* text-align: center; */
+    font-size: 3.4rem;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+}
+#highlight-this{
+    color: #DC3535;
+    text-decoration: none;
+}
 /************** Class Selector Rules **************/
 
 .top-container{
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+.upper-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.lower-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.main-mountain{
+    scale: 1.2;
+}
+
+/* .top-container{
     background-color: #FF7D7D;
     height: 200px;
     width: 200px;
@@ -30,4 +62,4 @@ body{
     background-color: #EA047E;
     height: 200px;
     width: 200px;
-}
+} */
