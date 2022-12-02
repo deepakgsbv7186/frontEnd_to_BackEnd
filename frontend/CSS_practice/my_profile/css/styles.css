@@ -33,6 +33,7 @@ a{
     text-decoration: none;
     color: whitesmoke;
 }
+
 #highlight-this{
     color: #DC3535;
     text-decoration: none;
@@ -69,7 +70,7 @@ a{
     border-style: dotted none none none;
     border-width: 10px;
     width: 5%;
-    margin: 0 auto;
+    margin: 100px auto;
     border-color: grey;
 }
 
@@ -85,8 +86,7 @@ a{
 }
 .profile p{
     width: 40%;
-    margin: 20px auto;
-    padding-bottom: 50px;
+    margin: 0 auto;
 }
 
 /* Skill Section */
@@ -121,7 +121,7 @@ a{
 .contact-me h2{
     color:whitesmoke;
     font-size: 3rem;
-    margin-top: 5%;
+    /* margin-top: 5%; */
     padding: 30px;
 }
 .contact-me p{
@@ -155,5 +155,9 @@ a{
 .bottom-container .footer-link{
     /* margin: 150px 0; */
     padding: 20px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    color: #11857E;
+}
+.bottom-container .footer-link:hover{
+    color: whitesmoke;
 }
