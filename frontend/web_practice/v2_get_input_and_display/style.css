@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+    color: white;
+}
+
+#display{
+    font-size: 3rem;
+    background-color: black;
+}

@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+/* body{
+    background: url(assets/oceanLight.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+} */
+body{
+    background: #00c6ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.navbar{
+    background-color: rgba(0,0,0,0.3);
+    padding: 1% 0;
+    text-align: center;
+}
+.navbar h2{
+    font-size: 3rem;
+    background: -webkit-linear-gradient(#0093E9, #80D0C7);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.inputArea{
+    text-align: center;
+    padding: 10%;
+}
+.inputArea input[type=number]{
+    background-color: rgba(0,0,0,0.2);
+    border: none;
+    border-radius: 15px;
+    font-size: 4rem;
+    outline: none;
+    text-align: center;
+    width: 35%;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+::placeholder{
+    color: rgb(53, 52, 52);
+    font-size: 4rem;
+}
+
+#btn{
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 5px;
+    color : whitesmoke;
+    font-size: 2rem;
+    margin-top: 5%;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+#btn:hover{
+    transform: scale(1.1);
+    transition: transform .2s ease;
+    cursor: pointer;
+}
+.outputArea{
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 5px;
+    color : whitesmoke;
+    font-size: 5rem;
+    /* margin-top: 5%; */
+    padding: 10px;
+    text-align: center;
+}
