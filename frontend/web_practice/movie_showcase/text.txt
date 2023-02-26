@@ -1,0 +1,16 @@
+  ✨ 1. TMDb: The Movie Database API - https://developers.themoviedb.org/3/discover/movie-discover
+  ✨ 2. IMDB logo - used local logo
+  ✨ 3. TMDB movies API 
+    Popular - https://api.themoviedb.org/3/movie/popular?api_key=644a9ae37679b418a8eaad8748f0ef03&language=en-US
+     Upcoming - https://api.themoviedb.org/3/movie/upcoming?api_key=644a9ae37679b418a8eaad8748f0ef03&language=en-US
+    Top Rated - https://api.themoviedb.org/3/movie/top_rated?api_key=644a9ae37679b418a8eaad8748f0ef03&language=en-US
+    Movie Detail API - https://api.themoviedb.org/3/movie/{{ id }}?api_key=644a9ae37679b418a8eaad8748f0ef03&language=en-US
+  ✨ 4. React Dev Tools - https://chrome.google.com/webstore/de...
+  ✨ 5. React Responsive Caraousel - https://www.npmjs.com/package/react-responsive-carousel
+  ✨ 6. TMDB image path - https://image.tmdb.org/t/p/original/{{ imagePath }}
+  		Ex: https://image.tmdb.org/t/p/original/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg
+  ✨ 7. Font Awesome CDN - https://fontawesome.com/v5/docs/web/use-with/wordpress/install-manually#setup-webfont-with-cdn
+  ✨ 8. React Loading Skeleton - https://www.npmjs.com/package/react-loading-skeleton
+  ✨ 9. GITHUB Repo - 
+
+  https://youtu.be/KH-pw1cv34E
